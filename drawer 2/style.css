@@ -156,6 +156,11 @@ header .container::after {
   transition: 1s all;
   list-style: none;
 }
+#gnav li{
+  padding: auto;
+  margin: auto;
+  text-align: center;;
+}
 #gnav a {
   display: block;
   color: #FFF;
